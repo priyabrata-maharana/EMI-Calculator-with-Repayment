@@ -493,7 +493,7 @@ with tab4:
 st.markdown("---")
 st.markdown(
     """
-    *Built by Dr. Priyabrata Maharana (priyabrata.maharana1236@gmail.com) | All calculations are approximate and for educational purposes only. 
+    *Built by Priyabrata Maharana (priyabrata.maharana1236@gmail.com) | All calculations are approximate and for educational purposes only. 
     Please consult your financial advisor before making investment decisions.*
     """
 )
@@ -512,4 +512,5 @@ st.markdown("""
         font-weight: bold;
     }
 </style>
+
 """, unsafe_allow_html=True)
